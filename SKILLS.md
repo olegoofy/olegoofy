@@ -76,7 +76,7 @@
 | 🟦 Asynchronous Queue  | 🟦 Callback hell               | 🟦 Race conditions  | 🟦 callbackify        |
 | ⬜ Future              | 🟦 Promise hell                | 🟦 Dead locks       | 🟦 promisify          |
 | ⬜ Deferred            |                                | 🟦 Live locks       | ⬜ IPC                |
-| 🟦 Observer            |                                | ⬜ Actor Model      | ⬜ Channel API        |
+| 🟩 Observer            |                                | ⬜ Actor Model      | ⬜ Channel API        |
 | ⬜ Async Collector     |                                |                     |                       |
 | ⬜ Coroutine           |                                |                     |                       |
 | ⬜ Goroutine           |                                |                     |                       |
@@ -105,7 +105,7 @@
 | ⬜ Serverless clouds | 🟦 Framework-agnostic app    | 🟦 DNS            |                  |                      |
 | ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟩 Fetch          |                  |                      |
 | 🟦 Debugging node.js | ⬜ Real-time applications    | 🟦 zlib           |                  |                      |
-| 🟦 crypto            | 🟦 CQS and CQRS              |                   |                  |                      |
+| 🟩 crypto            | 🟦 CQS and CQRS              |                   |                  |                      |
 | ⬜ SharedArrayBuffer | 🟦 Event Sourcing            |                   |                  |                      |
 | 🟦 child_process     | 🟦 Shared memory             |                   |                  |                      |
 | 🟦 worker_threads    |                              |                   |                  |                      |
